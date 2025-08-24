@@ -12,7 +12,6 @@ public partial class MainWindow : ReactiveWindow<ViewModels.MainWindowViewModel>
     {
         InitializeComponent();
         Instance = this;
-        //DataContext = new ViewModels.MainWindowViewModel();
     }
 
     private void InitializeComponent()
