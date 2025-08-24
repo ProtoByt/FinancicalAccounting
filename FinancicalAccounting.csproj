@@ -26,6 +26,5 @@
     </PackageReference>
     <PackageReference Include="CommunityToolkit.Mvvm" Version="8.2.1" />
     <PackageReference Include="ReactiveUI.Fody" Version="19.5.41" />
-    <PackageReference Include="SQLite" Version="3.13.0" />
   </ItemGroup>
 </Project>
